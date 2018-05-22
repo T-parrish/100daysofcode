@@ -14,14 +14,23 @@ I'm also not completely satisfied with the header at this moment: after the elem
 Aside from that, I have a decent idea of how I want the portfolio to look / function. Tomorrow I'll spend some time building out the portfolio component and learning about page transition animations to solidify my portfolio flow.
 
 **Link to work:** 
+https://github.com/T-parrish/portfolio
+
 
 ### Day 1: May 22, 2018
 
 **Today's Progress**: 
+Worked on the portfolio some more, Fixed up some of the main page styling, added some animations, and integrated the Typist library. 
 
 **Thoughts:** 
+I spent a good deal of time trying to write a custom typewriter-esque React Component, pulling from a bunch of different examples I found on Github. After several failed attempts, I decided it would be a better use of my time to build off of a library. In the end, I chose Typist and integrated it into my homepage.
+
+All said and done, I didn't get as much accomplished today as I had hoped. However, I did learn a good deal about some of React's limitations.
+
+In preparation for the upcoming job hunt, I'll start to work some leetcode / hackerrank exercises into my daily programming mix. 
 
 **Link to work:** 
+https://github.com/T-parrish/portfolio
 
 ### Day 2: May 23, 2018
 
