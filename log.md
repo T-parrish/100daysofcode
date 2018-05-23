@@ -35,7 +35,13 @@ https://github.com/T-parrish/portfolio
 ### Day 2: May 23, 2018
 
 **Today's Progress**: 
+Started studying via LeetCode, did a couple algorithms and did some work towards optimizing them / understanding why certain patters are more efficient than others. Also, feels good to brush back up on Python - really missed it with all the Javascript these days.
+
+Put some work into the portfolio project section of my portfolio app. managed to get things up and running with some custom project cards. Styling isn't quite there yet, but it's good enough to keep moving along. Next thing I need to figure out is how to render the cards to screen responsively without the current sizing issues.
 
 **Thoughts:** 
+Good progress today. Knocked out a lot with the projects section and did some good studying for algorithms. 
 
 **Link to work:** 
+https://github.com/T-parrish/LeetCode
+https://github.com/T-parrish/portfolio
