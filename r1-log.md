@@ -10,4 +10,7 @@ Currently house-sitting for two bengal kittens in Singapore, finished the amazin
 Tried to build a typewriter React Component from scratch, failed repeatedly. Gained a new appreciation for the React wizards out there who build and maintain libraries like Typist. Next up, diving into ReactCSSTransitionGroup
 
 ### R1D3
-Knocked out some algorithms from leetcode, made some good progress on the project section of my portfolio. Feels good to mess around with Python again, it's been way too long :)
+Made some good progress on building portfolio project components in #React and Knocked out some algorithms from @LeetCode. Feels good to mess around with #Python again, it's been way too long 🐍  #100DaysOfCode 
+
+### R1D4 
+Spent an afternoon poking and prodding this vanilla #React card slider component. So far, not having any luck with animating on state change. Maybe this is the wrong way to approach it, tips anybody? 🙏 #100daysofcode

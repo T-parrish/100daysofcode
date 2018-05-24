@@ -45,3 +45,57 @@ Good progress today. Knocked out a lot with the projects section and did some go
 **Link to work:** 
 https://github.com/T-parrish/LeetCode
 https://github.com/T-parrish/portfolio
+
+### Day 3: May 24, 2018
+
+**Today's Progress**: 
+More algorithms from leetcode, feel like I'm starting to get the hang of it again. Most importantly, learned some nifty use cases and implementations for XOR gates and hash-tables.
+
+Progress was slow on the portfolio app today, managed to create a 'carousel' of sorts for the project cards. However, I keep running into walls when it comes to animating the transitions. 
+
+**Thoughts:** 
+Trouble sleeping the night before left me feeling a bit foggy today. Progress was slow, but at least I'm having a blast just poking and prodding React; great way to learn about its limitations and effective design patterns. Working with React is a total joy so far, can't wait to figure out how to animate components dynamically.
+
+**Link to work:** 
+https://github.com/T-parrish/LeetCode
+https://github.com/T-parrish/portfolio
+
+### Day : May , 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day : May , 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day : May , 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day : May , 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day : May , 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
