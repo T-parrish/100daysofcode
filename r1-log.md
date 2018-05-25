@@ -14,3 +14,6 @@ Made some good progress on building portfolio project components in #React and K
 
 ### R1D4 
 Spent an afternoon poking and prodding this vanilla #React card slider component. So far, not having any luck with animating on state change. Maybe this is the wrong way to approach it, tips anybody? 🙏 #100daysofcode
+
+### R1D5
+Ran into some issues with ReactCSSTransitionGroup today... finally realized I'd installed the wrong library (CSSTransitionGroup) for the syntax I was using 😅 After that, got things to animate nicely... but only in one direction 😑 #SmallWins #100DaysOfCode 

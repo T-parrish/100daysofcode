@@ -60,13 +60,21 @@ Trouble sleeping the night before left me feeling a bit foggy today. Progress wa
 https://github.com/T-parrish/LeetCode
 https://github.com/T-parrish/portfolio
 
-### Day : May , 2018
+### Day4 : May25 , 2018
 
 **Today's Progress**: 
+More algorithms, trying to learn multiple ways of solving each problem while paying attention to time / space complexity. Found a problem that I was able to brute-force, but struggling to understand the hash-table implementation. Tradeoff between time / space between the two, definitely important to understand both. Will come back to this in the future.
+
+Finally managed to implement ReactCSSTransitions - discovered I was using the wrong library for a portion of time. (Doh!) After correctly setting it up, managed to get the animations to work... but only in one direction. Progress!
 
 **Thoughts:** 
+Good progress on algorithms, Python is coming back to me much faster than I expected. Had some trouble on a hash-table implementation for solving an an array addition problem, but I was able to write a brute-force solution quite easily. 
+
+For React, gaining a more intuitive feel for how state and props can be manimpulated and passed around. Was really stoked to implement ReactCSSTransitionGroup, but also a bit bummed that it currently only animates to one direction. Small wins! 
 
 **Link to work:** 
+https://github.com/T-parrish/LeetCode
+https://github.com/T-parrish/portfolio
 
 ### Day : May , 2018
 
