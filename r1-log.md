@@ -17,3 +17,6 @@ Spent an afternoon poking and prodding this vanilla #React card slider component
 
 ### R1D5
 Ran into some issues with ReactCSSTransitionGroup today... finally realized I'd installed the wrong library (CSSTransitionGroup) for the syntax I was using 😅 After that, got things to animate nicely... but only in one direction 😑 #SmallWins #100DaysOfCode 
+
+### R1D6
+Built a nifty animated tile background component today. Needs a little bit of work to automate tile count and tile height, but it's a good start. #100daysofcode

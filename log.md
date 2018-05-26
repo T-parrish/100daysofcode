@@ -76,13 +76,17 @@ For React, gaining a more intuitive feel for how state and props can be manimpul
 https://github.com/T-parrish/LeetCode
 https://github.com/T-parrish/portfolio
 
-### Day : May , 2018
+### Day : May 26, 2018
 
 **Today's Progress**: 
+Learned how to execute functions and update state repeatedly with a specific time-frame. Used this to build a little background component out of colored tiles that randomly update color every ~500ms.
 
 **Thoughts:** 
+Learned some new tricks today, built a nifty component and learned some stuff I'll be applying to other portions of the app. Next, I want to figure out how to properly cover the background with repeating tiles by grabbing the window size before the component mounts and using that to math the height of the tiles. After that, I want to experiment with using ReactCSSTransitionGroup to add a little animation each time the tiles are updated.
+
 
 **Link to work:** 
+https://github.com/T-parrish/portfolio
 
 ### Day : May , 2018
 
