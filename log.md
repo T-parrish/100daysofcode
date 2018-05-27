@@ -60,7 +60,7 @@ Trouble sleeping the night before left me feeling a bit foggy today. Progress wa
 https://github.com/T-parrish/LeetCode
 https://github.com/T-parrish/portfolio
 
-### Day4 : May25 , 2018
+### Day 4: May25 , 2018
 
 **Today's Progress**: 
 More algorithms, trying to learn multiple ways of solving each problem while paying attention to time / space complexity. Found a problem that I was able to brute-force, but struggling to understand the hash-table implementation. Tradeoff between time / space between the two, definitely important to understand both. Will come back to this in the future.
@@ -76,7 +76,7 @@ For React, gaining a more intuitive feel for how state and props can be manimpul
 https://github.com/T-parrish/LeetCode
 https://github.com/T-parrish/portfolio
 
-### Day : May 26, 2018
+### Day 5: May 26, 2018
 
 **Today's Progress**: 
 Learned how to execute functions and update state repeatedly with a specific time-frame. Used this to build a little background component out of colored tiles that randomly update color every ~500ms.
@@ -84,17 +84,21 @@ Learned how to execute functions and update state repeatedly with a specific tim
 **Thoughts:** 
 Learned some new tricks today, built a nifty component and learned some stuff I'll be applying to other portions of the app. Next, I want to figure out how to properly cover the background with repeating tiles by grabbing the window size before the component mounts and using that to math the height of the tiles. After that, I want to experiment with using ReactCSSTransitionGroup to add a little animation each time the tiles are updated.
 
-
 **Link to work:** 
 https://github.com/T-parrish/portfolio
 
-### Day : May , 2018
+### Day 6: May 27, 2018
 
 **Today's Progress**: 
+Really productive day, updated the boxy component to now generate boxes that fit the screen perfectly every time. Secret sauce was to grab the window size when the component mounts and push it into the component's state. After that, I divided the window height by how many rows I wanted and pushed that down into the box props for styling. Learned a good bit about component lifecycle methods during all this.
+
+Also got started on the blog portion of the portfolio, built the scaffolding and a bare-bones form component that I plan to dial up and put behind an authenticated route so I can create blog posts and push em to a database from my own dashboard. But that's for another day.
 
 **Thoughts:** 
+Got a lot done today, which is good because I'll be heading off to Italy this coming Tuesday for a bunch of adventures. #100daysofcode is about to go into hard mode, but that just makes me want to push harder :)
 
 **Link to work:** 
+https://github.com/T-parrish/portfolio
 
 ### Day : May , 2018
 

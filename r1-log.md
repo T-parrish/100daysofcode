@@ -20,3 +20,6 @@ Ran into some issues with ReactCSSTransitionGroup today... finally realized I'd 
 
 ### R1D6
 Built a nifty animated tile background component today. Needs a little bit of work to automate tile count and tile height, but it's a good start. #100daysofcode
+
+### R1D7
+👾 R1D7 - Finished #TheExpanse, updated / optimized my generative tile background component, built the skeleton for my blog and blog dashboard, started packing for the next adventure: Italy! #100daysofcode
