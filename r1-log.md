@@ -23,3 +23,6 @@ Built a nifty animated tile background component today. Needs a little bit of wo
 
 ### R1D7
 👾 R1D7 - Finished #TheExpanse, updated / optimized my generative tile background component, built the skeleton for my blog and blog dashboard, started packing for the next adventure: Italy! #100daysofcode
+
+### R1D8
+🐢 R1D8 - Took a break from React and refactored Express for MongoDB! Cooked up a few routes for blog posts and user creation, bumped the @postmanclient anthem, and loaded up my backpack. Tomorrow, Italy!

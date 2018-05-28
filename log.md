@@ -100,13 +100,18 @@ Got a lot done today, which is good because I'll be heading off to Italy this co
 **Link to work:** 
 https://github.com/T-parrish/portfolio
 
-### Day : May , 2018
+### Day 7: May 28, 2018
 
 **Today's Progress**: 
+Started refactoring my portfolio to work with MongoDB rather than firebase. Took a little while to get my node / mongoose chops back up to speed, but things are cruising along smoothly now. First batch of blog routes ironed out before lunch, ironed out user signups before dinner, now I just have to figure out how to connect Redux to Mongo for persistent authentication.
+
+Read up on a few different articles and it seems like there are a few ways to do it. Time to experiment!
 
 **Thoughts:** 
+Feels good to brush back up on my Node.js and Express.js. Something I've always struggled with is connecting the front end to persistent databases, so this is helping me break down what I've learned before (pure Node + Express API w/ MongoDB, React frontend w/ Node + Express on top of Firebase). Excited to put everything together!
 
 **Link to work:** 
+https://github.com/T-parrish/portfolio
 
 ### Day : May , 2018
 
