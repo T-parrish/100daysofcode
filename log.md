@@ -113,10 +113,25 @@ Feels good to brush back up on my Node.js and Express.js. Something I've always 
 **Link to work:** 
 https://github.com/T-parrish/portfolio
 
-### Day : May , 2018
+### Day 8: May 29, 2018
 
 **Today's Progress**: 
+24 hours of travel later, made it to Milan. Didn't get internet until the next day, but was able to code for a couple hours on the plan ride over. Progress was slow without being able to ask questions to the internet, but still learned a couple neat things
 
 **Thoughts:** 
+Was trying to debug some errors yesterday while building out mongoose / redux authentication. Turns out, I need to run build:prod or build:dev before booting up the node server to reflect the changes I made to the front end. Got so used to dev-server handling everything for me that this definitely threw me for a loop. 
 
 **Link to work:** 
+https://github.com/T-parrish/portfolio
+
+### Day 9: May 30, 2018
+
+**Today's Progress**: 
+Spent a good portion of today exploring Milan and recovering from the insane travel day yesterday. Managed to crank out a solid hour of algorithms from leetcode, plan to iron out Authentication for my app over this next week
+
+**Thoughts:** 
+Wasn't as productive as I had hoped, but proud that I'm still hitting at least 1 hour per day of coding with all the added travel stuff. 
+
+
+**Link to work:** 
+https://github.com/T-parrish/LeetCode

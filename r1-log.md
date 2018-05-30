@@ -26,3 +26,9 @@ Built a nifty animated tile background component today. Needs a little bit of wo
 
 ### R1D8
 🐢 R1D8 - Took a break from React and refactored Express for MongoDB! Cooked up a few routes for blog posts and user creation, bumped the @postmanclient anthem, and loaded up my backpack. Tomorrow, Italy!
+
+### R1D9
+24 hours of travel later, made it to Milan. Didn't get internet until the next day, but was able to code for a couple hours on the plan ride over. Progress was slow without being able to ask questions to the internet, but still learned a couple neat things
+
+### R1D10
+Spent a good portion of today exploring Milan and recovering from the insane travel day yesterday. Managed to crank out a solid hour of algorithms from leetcode, plan to iron out Authentication for my app over this next week
