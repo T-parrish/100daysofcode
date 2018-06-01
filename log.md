@@ -135,3 +135,27 @@ Wasn't as productive as I had hoped, but proud that I'm still hitting at least 1
 
 **Link to work:** 
 https://github.com/T-parrish/LeetCode
+
+### Day 10: May 31, 2018
+
+**Today's Progress**: 
+Cranked out some algorithms focused on string methods from Leetcode today. Knowing that a good portion of the day would be spent driving, (Milan -> Lake Como -> Cinque Terre), I woke up extra early to squeeze in an hour and a half of coding time before heading out for the day.
+
+**Thoughts:** 
+It's tough to make progress on a project in such a limited window of time. I definitely find that spending 2-3 uninterrupted hours on a project is ideal.
+
+**Link to work:** 
+https://github.com/T-parrish/LeetCode
+
+### Day 11: june 1, 2018
+
+**Today's Progress**: 
+Since the internet is practically useless, (can't even push to Github 😂), I've spent a bit more time on my personal portfolio and some algorithms from leetcode (Even though it takes like 5 minutes to load each one 😓). 
+
+**Thoughts:** 
+Progress is slow without stable / reliable internet, but I'm pleased with myself for waking up extra early and making sure that I can set aside between 1-2 hours for coding each morning before heading out on adventures. Once we make it back to an area with more stable internet, I'm super excited to start Brad Traversy's MERN stack class - I'm a huge fan of his free content on Youtube, and I can't wait to see what a full, paid course of his is going to be like.
+
+
+**Link to work:** 
+https://github.com/T-parrish/LeetCode
+https://github.com/T-parrish/portfolio

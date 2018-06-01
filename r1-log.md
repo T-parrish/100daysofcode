@@ -32,3 +32,9 @@ Built a nifty animated tile background component today. Needs a little bit of wo
 
 ### R1D10
 Spent a good portion of today exploring Milan and recovering from the insane travel day yesterday. Managed to crank out a solid hour of algorithms from leetcode, plan to iron out Authentication for my app over this next week
+
+### R1D11
+It's tough to make progress on a project in such a limited window of time. I definitely find that spending 2-3 uninterrupted hours on a project is ideal.
+
+### R1D12
+Progress is slow without stable / reliable internet, but I'm pleased with myself for waking up extra early and making sure that I can set aside between 1-2 hours for coding each morning before heading out on adventures.
