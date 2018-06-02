@@ -159,3 +159,18 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 **Link to work:** 
 https://github.com/T-parrish/LeetCode
 https://github.com/T-parrish/portfolio
+
+### Day 12: june 2, 2018
+
+**Today's Progress**: 
+Woke up nice and early to do some more coding, internet access even more finickey than the day before. Mostly stuck with algorithms and LeetCode since I hit a roadblock on my project that requires internet access to get past.
+
+After a nice long drive and a day of exploring Florence, we made it to our new AirBNB and finally have access to functional internet. Spending the last part of my day going through Brad Traversy's MERN stack course and using the new info to start chipping away at my portfolio roadblock.
+
+**Thoughts:** 
+Always forget how much I take internet for granted until I find myself in a remote place with a particularly nasty coding problem to solve. Something that could be solved in 10-15 minutes suddenly takes 30-45 minutes or gets put on hold until the Googs are back within reach.
+
+**Link to work:** 
+https://github.com/T-parrish/LeetCode
+https://github.com/T-parrish/MERN_stack
+

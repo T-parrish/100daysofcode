@@ -38,3 +38,6 @@ It's tough to make progress on a project in such a limited window of time. I def
 
 ### R1D12
 Progress is slow without stable / reliable internet, but I'm pleased with myself for waking up extra early and making sure that I can set aside between 1-2 hours for coding each morning before heading out on adventures.
+
+### R1D13 
+🐙 After a couple days exploring Cinque Terre without access to internet, I'm reminded how much I take simple resources like Google and Stack Overflow for granted. Problems that would usually take 10-15 minutes suddenly take 30-45... if I'm really on it 😂 #100daysofcode
