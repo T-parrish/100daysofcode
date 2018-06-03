@@ -174,3 +174,13 @@ Always forget how much I take internet for granted until I find myself in a remo
 https://github.com/T-parrish/LeetCode
 https://github.com/T-parrish/MERN_stack
 
+### Day 13: june 3, 2018
+
+**Today's Progress**: 
+Learned a good deal about passport and JWT authentication today. Filled in a lot of conceptual / technological gaps for some of my other projects, but still need to figure out the best way to integrate React Router and Redux without stepping on Node / Express' toes.
+
+**Thoughts:** 
+Things are making sense much faster now, and being exposed to new technologies / libraries is helping me to identify and solve problems that would have taken forever to dissect without an internet connection. Feels good to be back.
+
+**Link to work:** 
+https://github.com/T-parrish/MERN_stack

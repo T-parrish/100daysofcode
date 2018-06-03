@@ -41,3 +41,6 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D13 
 🐙 After a couple days exploring Cinque Terre without access to internet, I'm reminded how much I take simple resources like Google and Stack Overflow for granted. Problems that would usually take 10-15 minutes suddenly take 30-45... if I'm really on it 😂 #100daysofcode
+
+### R1D14
+☕️️️ Brushed up on Bcrypt, Learned a bunch about Passport and JWT authentication. Big ups to @traversymedia for top-notch lessons and tutorials - definitely my favorite teacher along with @andrew_j_mead for Node and React content. #100DaysOfCode
