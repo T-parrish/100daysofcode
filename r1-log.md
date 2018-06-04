@@ -44,3 +44,6 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D14
 ☕️️️ Brushed up on Bcrypt, Learned a bunch about Passport and JWT authentication. Big ups to @traversymedia for top-notch lessons and tutorials - definitely my favorite teacher along with @andrew_j_mead for Node and React content. #100DaysOfCode
+
+### R1D15
+🍕 Last day in Florence today. Found out that most museums are closed on Mondays, so we explored until the thunderstorm hit. After that -> @Deliveroo pizza, a bottle of wine, and finished routing + validation for this MERN project. Tomorrow, Venice! #100DaysOfCode

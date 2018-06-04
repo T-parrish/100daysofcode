@@ -184,3 +184,14 @@ Things are making sense much faster now, and being exposed to new technologies /
 
 **Link to work:** 
 https://github.com/T-parrish/MERN_stack
+
+### Day 14: june 4, 2018
+
+**Today's Progress**: 
+Spent a good deal of time fleshing out the back end for this MERN app. Things are coming togther, but I'm still curious to learn how things are going to connect with the front end. 
+
+**Thoughts:** 
+Lots of time spent on making the back end of this application robust. A bit tedious at times, but almost done with routing and validation. After that, should have more time to play around on the front end and wire things up with React + Redux.
+
+**Link to work:** 
+https://github.com/T-parrish/MERN_stack
