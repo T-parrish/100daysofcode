@@ -195,3 +195,17 @@ Lots of time spent on making the back end of this application robust. A bit tedi
 
 **Link to work:** 
 https://github.com/T-parrish/MERN_stack
+
+### Day 15: june 5, 2018
+
+**Today's Progress**: 
+First day in Venice - it's everything I could have hoped for. Did a little bit of exploring, then did some work on LeetCode algorithms. Specifically, I started tackling the Linked List section - something that's always given me trouble. 
+
+After a knocking out a couple of the Linked List problems, I went back to the MERN stack application and finished all the routes / validation for User profiles. Wrote a few routes for Posts as well, should have it ironed out shortly, then I'll be able to get started on the front end.
+
+**Thoughts:** 
+Starting to get a better feel for routing with Express, happy to have knocked out a couple of the Linked List problems. I'm interested to see practical applciations of Linked Lists in production - so far it seems like they're more useful as a theoretical concept when it comes to web development. I can see how they could be useful for low level programming languages or system design, however.
+
+**Link to work:** 
+https://github.com/T-parrish/MERN_stack
+https://github.com/T-parrish/LeetCode

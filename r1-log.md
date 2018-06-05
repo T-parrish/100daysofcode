@@ -47,3 +47,6 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D15
 🍕 Last day in Florence today. Found out that most museums are closed on Mondays, so we explored until the thunderstorm hit. After that -> @Deliveroo pizza, a bottle of wine, and finished routing + validation for this MERN project. Tomorrow, Venice! #100DaysOfCode
+
+### R1D16
+🎶 Took some time to practice Linked Lists with @LeetCode. Still a little rough around the edges, but learned a neat trick add or delete nodes with O(n) space and O(1) time complexity! #100DaysOfCode 
