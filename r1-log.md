@@ -50,3 +50,6 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D16
 🎶 Took some time to practice Linked Lists with @LeetCode. Still a little rough around the edges, but learned a neat trick add or delete nodes with O(n) space and O(1) time complexity! #100DaysOfCode 
+
+### R1D17
+🚢 Ran through two full batteries shooting around Venice today. Got to play with the new 10 stop ND filter and test-drive a 70-200mm f/2.8 lens 😍 Wrapping a long day with some algorithm practice / studying - still on target for SF job hunt in September! #100daysofcode

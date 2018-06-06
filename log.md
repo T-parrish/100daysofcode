@@ -209,3 +209,14 @@ Starting to get a better feel for routing with Express, happy to have knocked ou
 **Link to work:** 
 https://github.com/T-parrish/MERN_stack
 https://github.com/T-parrish/LeetCode
+
+### Day 16: june 6, 2018
+
+**Today's Progress**: 
+Long day of photography and exploration, spent my coding time for the day trying to wrap my head around Linked List manipulation. Finally making some progress, but still really difficult for me.
+
+**Thoughts:** 
+Kinda bummed I'm having so much trouble manipulating a data structure that, on the surface, is fairly simple and straightforward. A bit worried about binary trees and other more complicated constructs... Feeling that imposter syndrome pretty hard today.
+
+**Link to work:** 
+https://github.com/T-parrish/LeetCode
