@@ -53,3 +53,6 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D17
 🚢 Ran through two full batteries shooting around Venice today. Got to play with the new 10 stop ND filter and test-drive a 70-200mm f/2.8 lens 😍 Wrapping a long day with some algorithm practice / studying - still on target for SF job hunt in September! #100daysofcode
+
+### R1D18
+📷 Learned iterative, recursive, and stack-based methods of manipulating / interacting with Linked Lists. Ate cuttlefish pasta with cuttlefish ink sauce. Did a photoshoot for a hotel in Venice. What a day. 😵😴 #100daysofcode

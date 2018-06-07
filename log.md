@@ -220,3 +220,14 @@ Kinda bummed I'm having so much trouble manipulating a data structure that, on t
 
 **Link to work:** 
 https://github.com/T-parrish/LeetCode
+
+### Day 17: june 7, 2018
+
+**Today's Progress**: 
+Started off the day with a photoshoot for a hotel in Venice. After that, some lunch and some coffee before diving back into Linked Lists and algorithms. I learned how to merge two sorted Linked Lists three different ways: with pointers / iterative, recursively, and by using a memory stack. Then I learned how to find out of a Linked List is a palindrome in two different ways: with a memory stack and interatively / with pointers. 
+
+**Thoughts:** 
+My understanding of the Linked List data structure is much stronger now and I feel a lot more confident than yesterday. I was planning to get more work done on Node / React this evening, but we wound up having a 3 hour dinner. That, and considering a few healthy pours of wine we had to celebrate our photography / marketing gig this morning, I do not presently feel capable of putting any meaningful effor into coding for the time being. I will have to pick things back up in the morning 😁
+
+**Link to work:** 
+https://github.com/T-parrish/LeetCode
