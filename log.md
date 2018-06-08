@@ -231,3 +231,15 @@ My understanding of the Linked List data structure is much stronger now and I fe
 
 **Link to work:** 
 https://github.com/T-parrish/LeetCode
+
+### Day 18: june 8, 2018
+
+**Today's Progress**: 
+Finished the Node back end for my MERN test app. Went back to refactor a couple of the routes and optimize a couple others. Tested myself for retention on the Linked List stuff I've been learning, managed to reproduce solutions in ~10 mins rather than 1-2 hours.
+
+**Thoughts:** 
+Repetition is key. Been having a lot more success with algorithms since I started drilling for at least ~1 hour per day. Stepping away from stuff I've been working on for a couple days has also been super helpful in gaining perspective. For example, after coming back to the Node portion of my MERN test app after a couple days of nothing but algorithms, everything started clicking almost immediately. 
+
+**Link to work:** 
+https://github.com/T-parrish/MERN_stack
+https://github.com/T-parrish/LeetCode

@@ -56,3 +56,6 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D18
 📷 Learned iterative, recursive, and stack-based methods of manipulating / interacting with Linked Lists. Ate cuttlefish pasta with cuttlefish ink sauce. Did a photoshoot for a hotel in Venice. What a day. 😵😴 #100daysofcode
+
+### R1D19
+💥Finished & refactored my Node API routes then spent a couple hours being blown away by the @keyframers. What these wizards can accomplish with nothing but CSS is mind blowing / inspiring. #100daysofcode 
