@@ -243,3 +243,15 @@ Repetition is key. Been having a lot more success with algorithms since I starte
 **Link to work:** 
 https://github.com/T-parrish/MERN_stack
 https://github.com/T-parrish/LeetCode
+
+### Day 19: june 9, 2018
+
+**Today's Progress**: 
+Slow day, made a lot of progress on music projects but didn't accomplish much on the coding front. Did manage to squeeze out the last Linked List problem from LeetCode and start with Binary trees... going to be fun.
+
+**Thoughts:** 
+Bummed that the place we're staying has questionable internet again. Makes progress a whole lot slower.
+
+
+**Link to work:** 
+https://github.com/T-parrish/LeetCode

@@ -59,3 +59,6 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D19
 💥Finished & refactored my Node API routes then spent a couple hours being blown away by the @keyframers. What these wizards can accomplish with nothing but CSS is mind blowing / inspiring. #100daysofcode 
+
+### R1D20
+💢 Internet at the latest hotel is questionable at best. Made use of my time by doing some work on a couple music projects and organizing my sample library. I was able to start doing some work / learning about binary trees today, though. Any progress is good progress I suppose 😜.
