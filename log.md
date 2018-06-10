@@ -255,3 +255,16 @@ Bummed that the place we're staying has questionable internet again. Makes progr
 
 **Link to work:** 
 https://github.com/T-parrish/LeetCode
+
+### Day 20: june 10, 2018
+
+**Today's Progress**: 
+Internet is still in shambles. Made a bit of progress on my MERN app today: completed a couple of components and rigged them up to communicate with the back end via Axios. Learned some interesting things about using the axios api vs the fetch api, and also some interesting tidbits with dynamic classNames.
+
+
+**Thoughts:** 
+Things are starting to come together with the front end and back end, once I figure out how the login tokens can be wrangled with application state via redux, I'll be ready to take the next steps with my personal portfolio.
+
+
+**Link to work:** 
+https://github.com/T-parrish/MERN_stack

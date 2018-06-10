@@ -62,3 +62,6 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D20
 💢 Internet at the latest hotel is questionable at best. Made use of my time by doing some work on a couple music projects and organizing my sample library. I was able to start doing some work / learning about binary trees today, though. Any progress is good progress I suppose 😜.
+
+### R1D21
+🍣 Built a handful of components, started rigging the front end to the back end using Axios, upgraded productivity with Emmet and es7 snippets, customized VScode a bit more to optimize for my workflow.
