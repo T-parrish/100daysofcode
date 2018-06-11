@@ -268,3 +268,16 @@ Things are starting to come together with the front end and back end, once I fig
 
 **Link to work:** 
 https://github.com/T-parrish/MERN_stack
+
+### Day 21: june 11, 2018
+
+**Today's Progress**: 
+Long day of travel today. Did some algorithm work / review before kicking things off. Made it to Prague in time for dinner a couple beers. Winding down the day by configuring Redux and wiring up some reducers.
+
+
+**Thoughts:** 
+Czech beer is cheaper than water, and I'm staying in an AirBnb that was built during a time when America was still a British colony. What a trip.
+
+**Link to work:** 
+https://github.com/T-parrish/MERN_stack
+https://github.com/T-parrish/LeetCode

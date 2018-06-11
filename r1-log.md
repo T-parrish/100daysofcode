@@ -65,3 +65,6 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D21
 🍣 Built a handful of components, started rigging the front end to the back end using Axios, upgraded productivity with Emmet and es7 snippets, customized VScode a bit more to optimize for my workflow.
+
+### R1D22
+🍻 I'm coding a React app from an AirBnb flat that was built during a time when America was still a British colony. Oh, and Czech beer is cheaper than water. What a trip.
