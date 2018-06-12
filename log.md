@@ -281,3 +281,15 @@ Czech beer is cheaper than water, and I'm staying in an AirBnb that was built du
 **Link to work:** 
 https://github.com/T-parrish/MERN_stack
 https://github.com/T-parrish/LeetCode
+
+### Day 21: june 11, 2018
+
+**Today's Progress**: 
+Drilled some algorithms earlier this morning before heading out to explore Prague with Chris who got in this morning at 8am from Iceland. did some hiking, got some lunch, took a ton of pictures. Did some work on the reducers + action generators for the MERN app. Some things are starting to make more sense.
+
+
+**Thoughts:** 
+Feeling a bit sluggish today, not super productive. Made some good strides with the app and my algorithm drills, but it seems like progress is taking me longer than usual.
+
+**Link to work:** 
+https://github.com/T-parrish/MERN_stack
