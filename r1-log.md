@@ -71,3 +71,9 @@ Progress is slow without stable / reliable internet, but I'm pleased with myself
 
 ### R1D23
 🎈 Feeling a bit sluggish today, not super productive. Made some good strides with the app and my algorithm drills, but it seems like progress is taking me longer than usual. Can't believe I'm less than a month into the #100daysofcode and this is the 3rd country I've been in since it started.  
+
+### R1D24
+🎉 Picked up the last piece to move forward with my own portfolio! Authenticating without Oauth / third parties has proven to be a bit more difficult / tedious, but I'm sure learning how to do this will pay off in the long run.
+
+
+

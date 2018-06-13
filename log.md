@@ -293,3 +293,15 @@ Feeling a bit sluggish today, not super productive. Made some good strides with 
 
 **Link to work:** 
 https://github.com/T-parrish/MERN_stack
+
+### Day 22: june 12, 2018
+
+**Today's Progress**: 
+Learned how to authenticate users with MongoDB and passport. Also learned how to persist logins by using localStorage and Redux.
+
+
+**Thoughts:** 
+Picked up the last piece to move forward with my own portfolio! Authenticating without Oauth / third parties seems to be a lot more complicated, but I'm sure learning how to do this will pay off in the long run.
+
+**Link to work:** 
+https://github.com/T-parrish/MERN_stack
